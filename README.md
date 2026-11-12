@@ -74,12 +74,12 @@ Dataset juga dapat diunduh melalui versi dataset Roboflow yang digunakan dalam p
 
 ## 7. Pembagian Tugas Anggota
 
-| No. | Nama Anggota | Tanggung Jawab |
+| No. | Nama Anggota | Deskripsi Tugas Yang Dikerjakan |
 |---|---|---|
-| 1 | Desti Fatimatuzzahra | Pengelolaan project Roboflow, anotasi bounding box, pengelolaan dataset, repository GitHub, dan dokumentasi. |
-| 2 | Suci Salwa Amalia | Pencarian dan pengumpulan gambar untuk dataset. |
-| 3 | Miracle Yuanita M | Pencarian dan pengumpulan gambar untuk dataset. |
-| 4 | Nayla Riskahana | Pencarian dan pengumpulan gambar untuk dataset. |
+| 1 | Desti Fatimatuzzahra |Mengumpulkan dan mencari gambar dari internet, membuat proyek Roboflow, melakukan anotasi bounding box pada seluruh gambar, mengelola dataset, melakukan ekspor dataset ke format YOLO, membuat repository GitHub, menyusun README.md, dokumentasi, serta mengelola dan mengunggah seluruh berkas proyek ke GitHub. |
+| 2 | Suci Salwa Amalia | Membantu mencari dan mengumpulkan gambar untuk dataset citra berasap.  |
+| 3 | Miracle Yuanita M | Membantu mencari dan mengumpulkan gambar untuk dataset citra berasap.  |
+| 4 | Nayla Riskahana | Membantu mencari dan mengumpulkan gambar untuk dataset citra berasap.  |
 
 ## 8. Bukti Kontribusi GitHub
 
