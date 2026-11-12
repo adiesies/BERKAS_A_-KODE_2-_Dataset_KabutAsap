@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Deteksi-Objek-Citra-Berasap', 'Gedung', 'Kendaraan', 'Manusia', 'Titik Api', 'Vegetasi']
+
+roboflow:
+  workspace: destis-workspace-m3wbj
+  project: deteksi_objek_citra_berasap
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/destis-workspace-m3wbj/deteksi_objek_citra_berasap/dataset/2
