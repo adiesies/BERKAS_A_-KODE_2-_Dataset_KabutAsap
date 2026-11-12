@@ -87,7 +87,7 @@ Tautan commit masing-masing anggota akan dicantumkan sebagai bukti kontribusi pe
 
 | Nama Anggota | Bukti Commit |
 |---|---|
-| Desti fatimatuzzahra | [Link Commit] (https://github.com/adiesies/BERKAS_A_-KODE_2-_Dataset_KabutAsap/commit/8088c50c2ae03a6350ec1ddfe53eaaf669663c44) |
+| Desti fatimatuzzahra | [Link Commit](https://github.com/adiesies/BERKAS_A_-KODE_2-_Dataset_KabutAsap/commit/8088c50c2ae03a6350ec1ddfe53eaaf669663c44) |
 | Suci Salwa Amalia | [Link Commit] |
 | Miracle Yuanita M | [Link Commit] |
 | Nayla Riskahana | [Link Commit] |
