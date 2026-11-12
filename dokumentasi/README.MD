@@ -27,7 +27,7 @@ Format anotasi: YOLO.
 
 ## 5. Bukti Dokumentasi
 Bukti screenshot proses pengerjaan tersedia
-di folder screenshot_roboflow.
+di folder roboflow_screenshot.
 
 Contoh hasil anotasi tersedia di folder
-hasil_anotasi.
+contoh_hasil_anotasi.
